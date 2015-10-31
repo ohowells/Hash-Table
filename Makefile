@@ -1,6 +1,6 @@
 CXX=g++
 CXXFLAGS=-std=c++11 -o
-FILES=HashTable.cpp
+FILES=Hashtable.cpp
 OBJ=sort.o
 
 default:
